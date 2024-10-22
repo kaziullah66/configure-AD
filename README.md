@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XuRT5Lm-BFQQ7kNvgEes1m-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AVYooldLxeqqs_0PoYMSmIn&oh=03_Q7cD1QH19cbapcKpdIxuc0irnUHoSZSXvw38Dya_1I6ts7gcmQ&oe=673F1A0F"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
