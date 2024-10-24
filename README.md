@@ -138,56 +138,47 @@ We executed a script in PowerShell ISE to generate users automatically.
 <br />
 <br />
 
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+13<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462550929_1066804998186675_9130706739649671000_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=l55lZavBLLoQ7kNvgGnYBtm&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A2WjZtejZI6vJZX7Byz83kI&oh=03_Q7cD1QFREgmdE2vLabkE6cVBOotWuNH-PyreqUK2o1bh-5x7iA&oe=6741DB4C"/>
 </p>
 <p>
-We executed a script in PowerShell ISE to generate users automatically.
+Configuring account lockout using group policy.
 </p>
 <br />
 <br />
 
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+14<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462543821_421692060729740_5854094042945118481_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=_O9HU4pd0qQQ7kNvgEfZbnE&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AGtl4b9bG67MgpjRyh6WePd&oh=03_Q7cD1QGIJHZmwixlK0VZJZyiDJrRnGj88Mm4htk_o80Woj9FHw&oe=6741BFEC"/>
 </p>
 <p>
-We executed a script in PowerShell ISE to generate users automatically.
+The settings we have configured.
 </p>
 <br />
 <br />
 
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+15<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462545433_1600878863838658_8253734063730560181_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=f5fZej0IPO4Q7kNvgHVx3zw&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=ACWQWmnoOgmOSFY6N4GNff7&oh=03_Q7cD1QGdBFzryJle8R-4jtOuzy7CvLCXNrq4ltfPoHzE_QtMOg&oe=6741BAE7"/>
 </p>
 <p>
-We executed a script in PowerShell ISE to generate users automatically.
+We purposefully entered the password wrong more than 5 times to see if our policy is working.
 </p>
 <br />
 <br />
 
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+16<p>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462557084_8829009907120859_2819970291575015900_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=ZBUTTXL5GLIQ7kNvgHF-MCh&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AHl_TuGCRgjMfpuiLDL7s27&oh=03_Q7cD1QH-wPE480CI8PjerReLGNLBScGkdipYTP_wTL1vwJsMng&oe=6741D106"/>
 </p>
 <p>
-We executed a script in PowerShell ISE to generate users automatically.
+We went into active directory users and computers to unlock the account.
 </p>
 <br />
 <br />
 
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+17<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462573099_1301300307706458_7735234221026851475_n.png?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=iPaQFCw4HJ8Q7kNvgHLo92K&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AKYZaqb1wNAoZwz4d-YXrB8&oh=03_Q7cD1QG_rwN6YO1SxtuNkGCR3ZB78DUKN64kd7JJ0j7w_WGOVg&oe=6741B05E"/>
 </p>
 <p>
-We executed a script in PowerShell ISE to generate users automatically.
-</p>
-<br />
-<br />
-
-12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
-</p>
-<p>
-We executed a script in PowerShell ISE to generate users automatically.
+We have gained access to this account.
 </p>
 <br />
 <br />
