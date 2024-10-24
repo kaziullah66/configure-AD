@@ -74,10 +74,10 @@ We confirmed the connection to the domain controller by ensuring it is mapped to
 <br />
 
 6<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462534228_1670737330151926_3810997668420009357_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tfZdSdpmMtEQ7kNvgF87LQy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AiFolAgaIYVvfbMiBqYPO8p&oh=03_Q7cD1QGu-LNsqsQ_fPQpC3ByNMo3P7baXisfS0BHTZFS3lGSbQ&oe=6741BE88"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+Creating new Organizational Units for new users.
 </p>
 <br />
 <br />
