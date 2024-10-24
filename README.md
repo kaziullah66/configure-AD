@@ -64,7 +64,7 @@ We pinged dc-1(domain controller).
 <br />
 
 5<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462570300_861697029095701_4025974581568336172_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sUdf3pnGtRMQ7kNvgHCLaTO&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A-VNK-1O5OuqOBDcpb9rMGm&oh=03_Q7cD1QHPDSUXXyX-tzQt0u66CjscBH4kgeQkVdV3HNrAEf8ABQ&oe=6741CFD3"/>
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462564925_338946755945928_4190073136591104224_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=8I7ZuQ_2w1wQ7kNvgGRknEj&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=Au4ySySSOypp8cbvMxPqSkr&oh=03_Q7cD1QG75sPUbm9m-e0vQA6JVK7mZ46-ph9zQZ1QRc__QMsH1w&oe=67419F67"/>
 </p>
 <p>
