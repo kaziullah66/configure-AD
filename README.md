@@ -31,91 +31,109 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462544246_1235664007678390_3086403986479741365_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Wg-0S3w1jAwQ7kNvgESYs3T&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=Abqi_KPEuNkhc_Q1aQhrpse&oh=03_Q7cD1QHqPYx5Gvyk2Uzcotw6cuqlSRtbYxKBNNr8WpKj1UfJzQ&oe=6740F7A2"/>
 </p>
 <p>
---------------------------.
+We created two virtual machines. One acts as a domain controller, and the other acts as a normal user.
 </p>
+<br />
 <br />
 
 2<p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Xdy7NWlB2JcQ7kNvgGVwySM&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AgLFgynSntZzMOkgOQhncfb&oh=03_Q7cD1QE24sxeNZw8xaU8Sv6-M74fxL-KquY6m0bL3RPfBzbbsw&oe=6741144F"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Xdy7NWlB2JcQ7kNvgEwbnLe&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=APcWv6vKB8j5iRj-SIDU8RJ&oh=03_Q7cD1QGL-UAavLY1X2k0rZFJXDoPktf-VeSHOoF6lkwDCO3YZg&oe=6741BD0F"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We deactivated the firewalls.
 </p>
+<br />
 <br />
 
 3<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462576843_893760036047622_1531729058594363453_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=4d8UTaWqaycQ7kNvgG_mgP1&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A5ZSr92FivegmYKc48b3HQB&oh=03_Q7cD1QG-oLXdVZge4Vc-YWyCYPDucL8gOndOB_Bj2y554oVvUA&oe=6741C258"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We reconfigured the DNS settings on the Network Interface Card (NIC) to point from the Microsoft DNS server to our domain controller (dc-1).
 </p>
 <br />
-<p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XuRT5Lm-BFQQ7kNvgEes1m-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AVYooldLxeqqs_0PoYMSmIn&oh=03_Q7cD1QH19cbapcKpdIxuc0irnUHoSZSXvw38Dya_1I6ts7gcmQ&oe=673F1A0F"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
 <br />
-<p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XuRT5Lm-BFQQ7kNvgEes1m-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AVYooldLxeqqs_0PoYMSmIn&oh=03_Q7cD1QH19cbapcKpdIxuc0irnUHoSZSXvw38Dya_1I6ts7gcmQ&oe=673F1A0F"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
 <br />
-<p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462584693_1563216618411905_1197264063529969099_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XuRT5Lm-BFQQ7kNvgEes1m-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AVYooldLxeqqs_0PoYMSmIn&oh=03_Q7cD1QH19cbapcKpdIxuc0irnUHoSZSXvw38Dya_1I6ts7gcmQ&oe=673F1A0F"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+8<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
+<br />
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+9<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We pinged dc-1(domain controller).
 </p>
 <br />
+<br />
+
+
+10<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+</p>
+<p>
+We pinged dc-1(domain controller).
+</p>
+<br />
+<br />
+
+11<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+</p>
+<p>
+We pinged dc-1(domain controller).
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+</p>
+<p>
+We pinged dc-1(domain controller).
+</p>
+<br />
+<br />
+
