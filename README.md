@@ -89,7 +89,7 @@ Creating a new user in our _ADMINS organizational unit.
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462639871_1139665467515654_7889629944978758830_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=qTArYS6yT6MQ7kNvgFxL9So&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AJ65F8k0qIPrVwkgmb7687O&oh=03_Q7cD1QF55e_oGF5TAARtL7z_rQOYZQonVU2Xd8VvqnmdGI-4pw&oe=6741D521"/>
 </p>
 <p>
-We created a user and assigned them domain admin privileges.
+We created a user and assigned him domain admin privileges.
 </p>
 <br />
 <br />
