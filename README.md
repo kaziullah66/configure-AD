@@ -83,57 +83,111 @@ Creating new Organizational Units for new users.
 <br />
 
 7<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462566814_1077870940654756_1348718392543597969_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tWfZioSrU8gQ7kNvgFNwhAP&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AEsgu4C80ehadPXzPGcB2wd&oh=03_Q7cD1QHtg3cI53Gxo3gEPiIQttgU0s7_fkeonOGYQNdHY0B3Dw&oe=6741B26E"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+Creating a new user in our _ADMINS organizational unit.
 </p>
 <br />
 <br />
 
 8<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462639871_1139665467515654_7889629944978758830_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=qTArYS6yT6MQ7kNvgFxL9So&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AJ65F8k0qIPrVwkgmb7687O&oh=03_Q7cD1QF55e_oGF5TAARtL7z_rQOYZQonVU2Xd8VvqnmdGI-4pw&oe=6741D521"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+We created a user and assigned them domain admin privileges.
 </p>
 <br />
 <br />
 
 
 9<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554852_8635879536500336_3794130011411122602_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=zvziNb7TCBQQ7kNvgFX-kRi&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AJJr5_rr4EscDFyG7kzBp7Z&oh=03_Q7cD1QHsFgreIdPv0biyKl5qqGDr_ybywP3cRd5-KEacIoxEpw&oe=6741AF34"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+Joining client-1(our other virtual machine) to the domain.
 </p>
 <br />
 <br />
 
 
 10<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462582425_1222415168882979_7355444991904108241_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Y29y7jAnSVUQ7kNvgHGqsc-&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AnFKE3kHVPt-YrXO53Bl-7a&oh=03_Q7cD1QEB9U5-WLuih82L_OOX8659UaoZo46sHzZNXvZGi18HJQ&oe=6741BA82"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+We have gone into the domain controller and verified that client-1 is part of our domain.
 </p>
 <br />
 <br />
 
 11<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554686_924252013141893_7102575562790680270_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Tm3jwZfoOXwQ7kNvgH6-WIm&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AIh6LNamIj0y6xWKNrVVmQc&oh=03_Q7cD1QH0BtYNRNQZnhlXuE9kmWFXNoBUiJTyVU09Z-fMWSFsfQ&oe=6741A79A"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+We are allowing all domain users to remotely access the PC.
 </p>
 <br />
 <br />
 
 12<p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
 </p>
 <p>
-We pinged dc-1(domain controller).
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
+</p>
+<br />
+<br />
+
+12<p>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462576772_2506724679533735_4117456061274827569_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=11pieaCYzRIQ7kNvgHLnt_r&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A1mZ_U4Rr-kQ5xH7SzLigPT&oh=03_Q7cD1QGZgWZUms03YZBS5DtAoaEsy5cevSEp4Z-vbNWI5l7WFA&oe=6741C684"/>
+</p>
+<p>
+We executed a script in PowerShell ISE to generate users automatically.
 </p>
 <br />
 <br />
