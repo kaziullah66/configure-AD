@@ -21,7 +21,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462544246_1235664007678390_3086403986479741365_n.png?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Wg-0S3w1jAwQ7kNvgESYs3T&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=Abqi_KPEuNkhc_Q1aQhrpse&oh=03_Q7cD1QHqPYx5Gvyk2Uzcotw6cuqlSRtbYxKBNNr8WpKj1UfJzQ&oe=6740F7A2"/>
+<img src="https://i.imgur.com/DNioZgA.png"/>
 </p>
 <p>
 We created two virtual machines. One acts as a domain controller, and the other acts as a normal user.
@@ -30,8 +30,7 @@ We created two virtual machines. One acts as a domain controller, and the other 
 <br />
 
 <p>
-<img src=https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462565431_1039634081231386_1070168697948150697_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Mrbxwd0sMP4Q7kNvgFFS_Or&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=ALYrKrFXQhRmCTTVt7-YFrY&oh=03_Q7cD1QGcKm2PAN2weC_aBbc2JY4crNqM4VGBq_CucNogoV5fUg&oe=6741D082
-"/>
+<img src=https://i.imgur.com/bc845ur.jpeg"/>
 </p>
 <p>
 We deactivated the firewalls.
@@ -40,7 +39,7 @@ We deactivated the firewalls.
 <br />
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462576843_893760036047622_1531729058594363453_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=4d8UTaWqaycQ7kNvgG_mgP1&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A5ZSr92FivegmYKc48b3HQB&oh=03_Q7cD1QG-oLXdVZge4Vc-YWyCYPDucL8gOndOB_Bj2y554oVvUA&oe=6741C258"/>
+<img src="https://i.imgur.com/6M9jKwI.png"/>
 </p>
 <p>
 We reconfigured the DNS settings on the Network Interface Card (NIC) to point from the Microsoft DNS server to our domain controller (dc-1).
@@ -49,7 +48,7 @@ We reconfigured the DNS settings on the Network Interface Card (NIC) to point fr
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462636456_1342098450508508_8958125043448141698_n.png?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=AqRXO0Icq0QQ7kNvgHcdPWy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A5igbUa9pEBNEwwwVdVNYAS&oh=03_Q7cD1QEdm998OOGCLmBky-SdUqEkNx8xkSaOBnaEcWzQ7KVcLQ&oe=6741ACF9"/>
+<img src="https://i.imgur.com/Fp1PM1F.png"/>
 </p>
 <p>
 We pinged dc-1(domain controller).
