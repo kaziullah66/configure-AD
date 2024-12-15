@@ -57,8 +57,8 @@ We pinged dc-1(domain controller).
 <br />
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462570300_861697029095701_4025974581568336172_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sUdf3pnGtRMQ7kNvgHCLaTO&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A-VNK-1O5OuqOBDcpb9rMGm&oh=03_Q7cD1QHPDSUXXyX-tzQt0u66CjscBH4kgeQkVdV3HNrAEf8ABQ&oe=6741CFD3"/>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462564925_338946755945928_4190073136591104224_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=8I7ZuQ_2w1wQ7kNvgGRknEj&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=Au4ySySSOypp8cbvMxPqSkr&oh=03_Q7cD1QG75sPUbm9m-e0vQA6JVK7mZ46-ph9zQZ1QRc__QMsH1w&oe=67419F67"/>
+<img src="https://i.imgur.com/Jsp3CqR.png"/>
+<img src="https://i.imgur.com/K2oJ0kh.png"/>
 </p>
 <p>
 We confirmed the connection to the domain controller by ensuring it is mapped to its private IP address.
@@ -67,7 +67,7 @@ We confirmed the connection to the domain controller by ensuring it is mapped to
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462534228_1670737330151926_3810997668420009357_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tfZdSdpmMtEQ7kNvgF87LQy&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AiFolAgaIYVvfbMiBqYPO8p&oh=03_Q7cD1QGu-LNsqsQ_fPQpC3ByNMo3P7baXisfS0BHTZFS3lGSbQ&oe=6741BE88"/>
+<img src="https://i.imgur.com/eLSkfNl.png"/>
 </p>
 <p>
 Creating new Organizational Units for new users.
@@ -76,7 +76,7 @@ Creating new Organizational Units for new users.
 <br />
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462566814_1077870940654756_1348718392543597969_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=tWfZioSrU8gQ7kNvgFNwhAP&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AEsgu4C80ehadPXzPGcB2wd&oh=03_Q7cD1QHtg3cI53Gxo3gEPiIQttgU0s7_fkeonOGYQNdHY0B3Dw&oe=6741B26E"/>
+<img src="https://i.imgur.com/GnRRes6.png"/>
 </p>
 <p>
 Creating a new user in our _ADMINS organizational unit.
@@ -85,7 +85,7 @@ Creating a new user in our _ADMINS organizational unit.
 <br />
 
 <p>
-<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462639871_1139665467515654_7889629944978758830_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=qTArYS6yT6MQ7kNvgFxL9So&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AJ65F8k0qIPrVwkgmb7687O&oh=03_Q7cD1QF55e_oGF5TAARtL7z_rQOYZQonVU2Xd8VvqnmdGI-4pw&oe=6741D521"/>
+<img src="https://i.imgur.com/5ayJx2t.png"/>
 </p>
 <p>
 We created a user and assigned him domain admin privileges.
@@ -95,7 +95,7 @@ We created a user and assigned him domain admin privileges.
 
 
 <p>
-<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462554852_8635879536500336_3794130011411122602_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=zvziNb7TCBQQ7kNvgFX-kRi&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AJJr5_rr4EscDFyG7kzBp7Z&oh=03_Q7cD1QHsFgreIdPv0biyKl5qqGDr_ybywP3cRd5-KEacIoxEpw&oe=6741AF34"/>
+<img src="https://i.imgur.com/NAPpVfp.png"/>
 </p>
 <p>
 Joining client-1(our other virtual machine) to the domain.
